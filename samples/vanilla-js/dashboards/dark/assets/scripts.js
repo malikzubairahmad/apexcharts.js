@@ -251,7 +251,7 @@ var optionsLine = {
     curve: 'smooth',
     width: 2
   },
-  //colors: ["#3F51B5", '#2196F3'],
+  colors: ["#3F51B5", '#2196F3'],
   series: [{
       name: "Music",
       data: [1, 15, 26, 20, 33, 27]
